@@ -6,4 +6,4 @@
 
 | Modulo | Title | Resumo | Andamento |
 |---| ----- | -------- | ---------- |
-|05|Consultas ao banco de dados JPA e JPQL, problema das N+1 consultas, consultas nativas com SQL| :heavy_check_mark: |
+|05|Consultas ao banco de dados JPA e JPQL, problema das N+1 consultas, consultas nativas com SQL| :heavy_check_mark: | :heavy_check_mark:
